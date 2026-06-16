@@ -1,5 +1,5 @@
 # VPS01
-##Verificação pratica somativa 01
+## Verificação pratica somativa 01
 Arquivos gerados durante  a avaliação de logica de progamação, algoritimos e fluxograms
 
 ## Tecnologias
